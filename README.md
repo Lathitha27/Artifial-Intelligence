@@ -6,11 +6,11 @@ Lab work and practical implementations for the Artificial Intelligence (CMPG 313
 
 ```
 Artifial-Intelligence/
-├── Lab1/    # Computer vision basics (image & video processing)
-├── Lab2/    # K-Means clustering
-├── Lab3/    # ELIZA chatbot vs. modern LLM comparison
-├── Lab4/    # Uninformed search (BFS, DFS, IDDFS)
-└── Lab5/    # Informed search (A*)
+Lab1    # Computer vision basics (image & video processing)
+Lab2    # K-Means clustering
+Lab3    # ELIZA chatbot vs. modern LLM comparison
+Lab4    # Uninformed search (BFS, DFS, IDDFS)
+Lab5     # Informed search (A*)
 ```
 
 ## Labs
@@ -50,5 +50,3 @@ Extends the search problem from Lab 4 with A*, an informed search algorithm usin
 - **Language:** Python 3
 - **Libraries used across labs:** OpenCV (image/video), scikit-learn (K-Means), standard Python data structures for search algorithms
 
-## Status
-Coursework submitted as part of CMPG 313: Artificial Intelligence, North-West University, 2026.
